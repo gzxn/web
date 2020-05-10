@@ -1,0 +1,52 @@
+
+body{
+    background: url("../img/dark-paths.png")
+}
+#login_box{
+    width: 20%;
+    height: 400px;
+    background: #00000060;
+    margin: auto;
+    margin-top:10% ;
+    text-align: center;
+    border-radius:10px ;
+    padding: 50px 50px;
+
+}
+
+#login_box h2{
+    color: #FFFFFF90;
+    margin-top: 5%;
+}
+
+#login_box #forn .input_box{
+    margin-top: 5%;
+}
+#login_box #forn .input_box input{
+    border: 0;
+    width: 60%;
+    font-size: 15px;
+    color: #FFFFFF;
+    background: #FFFFFF00;
+    border-bottom: 2px solid #FFFFFF;
+    padding: 5px 10px;
+    margin-top: 10px;
+
+}
+#login_box #forn button{
+    margin-top: 50px;
+    width: 40%;
+    height: 20px;
+    border-radius: 10px;
+    border: 0;
+    color: #FFFFFF;
+    font-size: 15px;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+#login_box #Sign_up{
+    margin-top: 45%;
+    margin-left: 70%;
+}
+#login_box #Sign a{
+    color: #008c8c;
+}
